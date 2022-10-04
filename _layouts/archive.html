@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+  {% for post in site.posts %}
+    {%- assign page = post -%}
+    <header class="post-header">
+      <h3><a href="{{ post.url }}">{{ post.title | escape }}</a> (Reading {{post.result}})</h3>
+    </header>
+
+    <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+  {% endfor %}
+  </article>
+
+</div>
