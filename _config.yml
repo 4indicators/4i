@@ -23,6 +23,7 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a site that I built to create a simple way to keep track of the four most important indicators in determining the current state of the stock market.
 baseurl: "" # the subpath of your site, e.g. /blog
+root: /
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
