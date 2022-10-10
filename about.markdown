@@ -47,3 +47,11 @@ Timing the market has typically been written off as futile, but I'm convinced th
 It's often said that markets are discounting mechanisms. They are always taking into account new information, pricing it in, and looking ahead. They tend to vote way before
 the reality is even remotely visible. Why does that happen? Nobody knows for sure which to me makes markets endlessly fascinating. Why can't we as individuals make sense of drastic price swings
 when they occur? It is one of the great mysteries of the world and one which nobody will solve. The market is a wave of constant uncertainty.
+
+<h3>But what about other indicators?</h3>
+
+Yes, this is a great and very valid question. What about 9 to 1 up volume or consecutive 2-1 advance/decline indicators?
+
+I think these indicators are great and provide very strong signals. The problem, though, is that they are <i>extremely</i> rare. Like 1-2 days a year or fewer, rare. If you are extraordinarily conservative you would want to wait for these to trigger. But the flip side of that is that you will only participate in the strongest bull markets, which I do not believe is necessary to have great performance. Definitely worth paying attention to but not so great for a weekly market tracker.
+
+I also believe that what you look for should vary by market environment. As I write this we are in one of the most volatile 1-2 year periods for the stock market in history. You have had an incredibly large number of false starts both to the upside and downside. A great environment for selling options, perhaps, not so great for trying to follow the trend. So for now it's probably prudent to up the 4% indicator to 5 or 6% (I'm not going to for consistency). Next year volatility may well drop and the market becomes very boring and 2-3% might be the better number. Just know that markets do change and nobody ever really knows what's to come. People should use the indicators that they are most comfortable with.

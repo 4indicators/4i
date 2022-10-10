@@ -6,7 +6,7 @@ permalink: /trend/
 
 <b>Overview</b>
 
-Of all my indicators, trend is the most important. I cannot have a buy signal in a downtrend or a sell signal in an uptrend. However, trend alone is not enough to flip the indicators. But when trend aligns with at least two of the other indicators it is likely trigger a signal.
+Of all my indicators, trend is the most important. I cannot have a buy signal triggered in a downtrend or a sell signal triggered in an uptrend. However, trend alone is not enough to flip the indicators. But when trend aligns with at least two of the other indicators it is likely to trigger a signal.
 
 To calculate trend I use a simple 4% week-over-week calculation of the <a href="https://www.google.com/search?q=valug" target="_blank">Value Line Geometric Index (VALUG).</a> The VALUG is an equal-weighted index of the prices of around 1,700 companies. You can think of it as taking a cross-section of the market with every stock given equal significance regardless of price or market cap. This is most useful because the relative weightings of individual companies in indexes like the S&P 500 change day-to-day and at the time of this writing the S&P 500 is dominated by the top 100 stocks. Therefore I do not believe it gives as reliable of a reading about the breadth of the trend. If just a handful of stocks with massive weighting are doing poorly it could cause one to assess the trend as down while most of the market is flat or up.
 
