@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Indicators for the Week of 10/03/22"
-date:   2022-10-10
+title:  "Indicators for the Week of 10/10/22"
+date:   2022-10-14
 result: "Neutral"
 categories: markets
 ---
@@ -33,4 +33,4 @@ categories: markets
 
 |  | Closing Price | Performance |
 |-|-|-|
-|RSP|$130.15|-0.3%|
+|RSP|$128.20|-1.7%|
