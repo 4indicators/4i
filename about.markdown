@@ -5,7 +5,7 @@ permalink: /about/
 ---
 What if I told you that you could largely determine whether it was a good time to get in or out of the stock market by spending just a few minutes a week tabulating a handful of indicators?
 
-My name is Dan Rich and I spend roughly 10 minutes a week assessing stock market conditions. That may sound like a sure path to failure but I believe that by performing just a couple of simple calculations and monitoring a few data points I get a very decent read on the state of the market while eliminating all of the noise that comes with typical stock market punditry. I believe that this approach combined with extraordinary discipline and patience will yield much better than average investment results. Let me explain how it works.
+I spend roughly 10 minutes a week assessing stock market conditions. That may sound like a sure path to failure but I believe that by performing just a couple of simple calculations and monitoring a few data points I get a very decent read on the state of the market while eliminating all of the noise that comes with typical stock market punditry. I believe that this approach combined with extraordinary discipline and patience will yield much better than average investment results. Let me explain how it works.
 
 I track four indicators that I believe can give anyone a very accurate picture of the market environment and whether it is an optimal time to buy or sell the stock market as a whole. I tabulate these indicators once a week and post them on this site. If you are curious about the indicators and why they are significant, you can read about them by visiting the links at the top of the site.
 
