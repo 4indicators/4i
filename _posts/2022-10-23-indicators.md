@@ -2,7 +2,7 @@
 layout: post
 title:  "Indicators for the Week of 10/17/22"
 date:   2022-10-23
-result: "Neutral"
+result: "Moderately Bullish"
 categories: markets
 ---
 <h4>The trend of the stock market is <b>up.</b></h4>
@@ -17,7 +17,7 @@ categories: markets
   Sentiment in the stock market is <b>bearish.</b>
 </h4>
 
-<h2 style="margin-top: 20px;">The current state of the stock market is <b>bullish.</b> Now would be a good time to buy stocks.</h2>
+<h2 style="margin-top: 20px;">The current state of the stock market is <b>moderately bullish.</b> Now would be a good time to own stocks.</h2>
 
 <br/>
 
