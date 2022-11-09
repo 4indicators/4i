@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Indicators for the Week of 10/24/22"
-date:   2022-10-31
+title:  "Indicators for the Week of 10/31/22"
+date:   2022-11-07
 result: "Neutral"
 categories: markets
 ---
@@ -28,10 +28,10 @@ categories: markets
 
 | | Cash Balance | Shares of RSP Held | Share Value | Performance |
 | ----------- | ----------- | --- |
-| 4I Portfolio      | $34.75      | 75 | $10,513.50 | 5.5% |
+| 4I Portfolio      | $34.75      | 75 | $10,343.25 | 3.8% |
 
 <b>RSP</b>
 
 |  | Starting Price | Closing Price | Performance |
 |-|-|-|
-|RSP| $130.48 | $140.18 | 7.4% |
+|RSP| $130.48 | $137.91 | 5.7% |
