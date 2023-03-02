@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Indicators for the Week of 1/17/23"
+title:  "Indicators for the Week of 03/02/23"
 date:   2023-03-02
 result: "Neutral"
 categories: markets
